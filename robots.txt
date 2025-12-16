@@ -1,0 +1,13 @@
+# Robots.txt for Art of Wandering About
+# Film Photography Portfolio - Charleston, SC
+# https://wpsands.github.io/
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://wpsands.github.io/sitemap.xml
+
+# LLM-readable content
+# See llms.txt for structured information about this site
+# https://wpsands.github.io/llms.txt

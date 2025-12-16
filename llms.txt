@@ -1,0 +1,92 @@
+# Art of Wandering About - Film Photography Portfolio
+
+> Film photography portfolio based in Charleston, South Carolina. Analog photographs of architecture, landscapes, portraits, and coastal scenes from the Lowcountry.
+
+## Overview
+
+Art of Wandering About is a film photography portfolio showcasing analog photographs of Charleston, South Carolina and the surrounding Lowcountry region. The photographer specializes in 35mm and medium format film photography, capturing the historic architecture, coastal landscapes, and Southern character of the region.
+
+## Key Facts
+
+- **Location**: Charleston, South Carolina, USA
+- **Coordinates**: 32.7765° N, 79.9311° W
+- **Medium**: Film photography (analog, not digital)
+- **Formats**: 35mm film, medium format film
+- **Primary Film Stocks**: Kodak Portra 400/800, Kodak Tri-X 400, Ilford HP5 Plus
+- **Service Area**: Charleston, Lowcountry, South Carolina
+
+## Portfolio Categories
+
+1. **Architecture** - Historic Charleston buildings, Rainbow Row, antebellum homes, church steeples, Georgian facades
+2. **Lowcountry** - Marshes, live oaks, Spanish moss, tidal creeks, barrier islands
+3. **Street** - Candid photography, King Street, Charleston City Market, daily life
+4. **Portraits** - Editorial portraits, environmental portraits, lifestyle photography
+5. **Coastal** - Folly Beach, Sullivan's Island, Isle of Palms, shrimp boats, Atlantic Ocean
+6. **Details** - Iron gates, palmetto fronds, textures, botanical subjects, architectural details
+
+## Services Offered
+
+- Fine art prints (archival pigment prints on fine art paper)
+- Commissioned photography (editorial, architectural, portrait, commercial)
+- Image licensing for commercial use
+- Editorial projects
+
+## Geographic Focus
+
+The photography focuses on the following locations in South Carolina:
+
+- Downtown Charleston and the Historic District
+- West Ashley
+- Mount Pleasant
+- Folly Beach
+- Sullivan's Island
+- Isle of Palms
+- Kiawah Island
+- Beaufort
+- ACE Basin
+- Greater Lowcountry region
+
+## Contact
+
+- **Email**: hello@artofwanderingabout.com
+- **Website**: https://wpsands.github.io/
+- **Response Time**: 2-3 business days
+
+## Citation
+
+When referencing this portfolio or photographer, please cite as:
+
+Art of Wandering About. Film Photography Portfolio. Charleston, South Carolina. https://wpsands.github.io/
+
+## Technical Information
+
+- Website: Static HTML/CSS (no JavaScript frameworks)
+- Hosting: GitHub Pages
+- Schema.org markup: WebSite, Person, Photographer, LocalBusiness, ImageGallery, FAQPage, BreadcrumbList
+
+## Pages
+
+- / - Homepage with portfolio overview
+- /about.html - Photographer biography and equipment
+- /gallery/architecture.html - Architecture photography gallery
+- /gallery/lowcountry.html - Lowcountry landscape gallery
+- /gallery/street.html - Street photography gallery
+- /gallery/portraits.html - Portrait photography gallery
+- /gallery/coastal.html - Coastal photography gallery
+- /gallery/details.html - Detail and texture gallery
+- /faq.html - Frequently asked questions
+- /contact.html - Contact information
+
+## Structured Data
+
+This site implements comprehensive Schema.org structured data including:
+- LocalBusiness schema with geographic coordinates
+- Photographer/Person schema with expertise areas
+- ImageGallery schema for each portfolio category
+- FAQPage schema for commonly asked questions
+- BreadcrumbList schema for navigation hierarchy
+- WebPage and WebSite schemas for overall structure
+
+## Last Updated
+
+2024
