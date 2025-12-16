@@ -2,8 +2,9 @@
 # Film Photography Portfolio - Charleston, SC
 # https://wpsands.github.io/
 
+# TEMPORARY: Block all crawlers during development
 User-agent: *
-Allow: /
+Disallow: /
 
 # Sitemaps
 Sitemap: https://wpsands.github.io/sitemap.xml
