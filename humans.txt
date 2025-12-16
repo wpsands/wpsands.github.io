@@ -1,0 +1,14 @@
+/* TEAM */
+Photographer: Art of Wandering About
+Location: Charleston, South Carolina, USA
+Contact: hello@artofwanderingabout.com
+
+/* SITE */
+Standards: HTML5, CSS3
+Software: Hand-coded
+Hosting: GitHub Pages
+
+/* THANKS */
+Film photography community
+Charleston, South Carolina
+The Lowcountry
